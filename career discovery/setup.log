@@ -1,0 +1,519 @@
+2025-06-26 16:08:21,324 - INFO - Starting setup process at 2025-06-26T16:08:21.323016
+2025-06-26 16:40:37,538 - INFO - Starting setup process at 2025-06-26T16:40:37.538369
+2025-06-26 16:40:37,540 - INFO - Python version 3.12.4 is compatible
+2025-06-26 16:40:37,540 - INFO - Checking and installing dependencies...
+2025-06-26 16:40:42,082 - WARNING - Package ollama not found after installation. Attempting reinstall...
+2025-06-26 16:40:49,929 - INFO - All dependencies installed and verified
+2025-06-26 16:40:49,944 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-26 16:40:59,077 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-26 16:40:59,077 - ERROR - Ollama installation still not detected. Exiting.
+2025-06-27 06:05:42,285 - INFO - Starting setup process at 2025-06-27T06:05:42.284711
+2025-06-27 06:05:42,286 - INFO - Python version 3.12.4 is compatible
+2025-06-27 06:05:42,286 - INFO - Checking and installing dependencies...
+2025-06-27 06:05:46,646 - INFO - All dependencies installed and verified
+2025-06-27 06:05:46,648 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:12:26,112 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:12:26,127 - ERROR - Ollama installation still not detected. Exiting.
+2025-06-27 06:22:14,605 - INFO - Starting setup process at 2025-06-27T06:22:14.604797
+2025-06-27 06:22:14,605 - INFO - Python version 3.12.4 is compatible
+2025-06-27 06:22:14,607 - INFO - Checking and installing dependencies...
+2025-06-27 06:22:19,438 - INFO - All dependencies installed and verified
+2025-06-27 06:22:19,443 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:22:27,259 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:22:27,260 - ERROR - Ollama installation still not detected. Exiting.
+2025-06-27 06:28:54,102 - INFO - Starting setup process at 2025-06-27T06:28:54.102488
+2025-06-27 06:28:54,102 - INFO - Python version 3.12.4 is compatible
+2025-06-27 06:28:54,102 - INFO - Checking and installing dependencies...
+2025-06-27 06:28:58,197 - INFO - All dependencies installed and verified
+2025-06-27 06:28:58,199 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:43:57,222 - INFO - Setup interrupted by user
+2025-06-27 06:44:06,746 - INFO - Starting setup process at 2025-06-27T06:44:06.746949
+2025-06-27 06:44:06,747 - INFO - Python version 3.12.4 is compatible
+2025-06-27 06:44:06,747 - INFO - Checking and installing dependencies...
+2025-06-27 06:44:10,784 - INFO - All dependencies installed and verified
+2025-06-27 06:44:10,785 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 06:50:49,511 - INFO - Setup interrupted by user
+2025-06-27 06:51:02,161 - INFO - Starting setup process at 2025-06-27T06:51:02.161276
+2025-06-27 06:51:02,161 - INFO - Python version 3.12.4 is compatible
+2025-06-27 06:51:02,161 - INFO - Checking and installing dependencies...
+2025-06-27 06:51:05,568 - INFO - All dependencies installed and verified
+2025-06-27 06:51:05,569 - ERROR - Ollama not found. Please install Ollama from https://ollama.ai/
+2025-06-27 07:00:31,188 - INFO - Starting setup process at 2025-06-27T07:00:31.188011
+2025-06-27 07:00:31,189 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:00:31,189 - INFO - Checking and installing dependencies...
+2025-06-27 07:00:36,201 - INFO - All dependencies installed and verified
+2025-06-27 07:00:36,256 - INFO - Ollama is installed
+2025-06-27 07:00:36,256 - INFO - Checking if Ollama server is running...
+2025-06-27 07:00:38,370 - INFO - Ollama server is already running.
+2025-06-27 07:00:38,370 - ERROR - Failed to start Ollama server. Please run 'ollama serve' manually.
+2025-06-27 07:02:50,131 - INFO - Starting setup process at 2025-06-27T07:02:50.131781
+2025-06-27 07:02:50,132 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:02:50,133 - INFO - Checking and installing dependencies...
+2025-06-27 07:02:53,327 - INFO - All dependencies installed and verified
+2025-06-27 07:02:53,375 - INFO - Ollama is installed
+2025-06-27 07:02:53,375 - INFO - Checking if Ollama server is running...
+2025-06-27 07:02:55,460 - INFO - Ollama server is already running.
+2025-06-27 07:02:55,461 - ERROR - Failed to start Ollama server. Please run 'ollama serve' manually.
+2025-06-27 07:04:22,658 - INFO - Starting setup process at 2025-06-27T07:04:22.658417
+2025-06-27 07:04:22,658 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:04:22,658 - INFO - Checking and installing dependencies...
+2025-06-27 07:04:25,270 - INFO - All dependencies installed and verified
+2025-06-27 07:04:25,388 - INFO - Ollama is installed
+2025-06-27 07:04:25,389 - INFO - Checking if Ollama server is running...
+2025-06-27 07:04:27,437 - INFO - Ollama server is already running.
+2025-06-27 07:04:27,438 - ERROR - Failed to start Ollama server. Please run 'ollama serve' manually.
+2025-06-27 07:06:19,744 - INFO - Starting setup process at 2025-06-27T07:06:19.744501
+2025-06-27 07:06:19,745 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:06:19,745 - INFO - Checking and installing dependencies...
+2025-06-27 07:06:22,125 - INFO - All dependencies installed and verified
+2025-06-27 07:06:22,163 - INFO - Ollama is installed
+2025-06-27 07:06:22,163 - INFO - Checking if Ollama server is running...
+2025-06-27 07:06:24,196 - INFO - Ollama server is already running.
+2025-06-27 07:06:26,236 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 07:06:26,236 - INFO - Checking AI model...
+2025-06-27 07:06:26,286 - INFO - Downloading Llama3.2:3b model...
+2025-06-27 07:10:01,369 - INFO - Llama3.2:3b model downloaded
+2025-06-27 07:10:18,022 - ERROR - Failed to verify model: Extra data: line 2 column 1 (char 97)
+2025-06-27 07:10:18,023 - ERROR - Model verification failed. Please check Ollama setup.
+2025-06-27 07:10:18,023 - ERROR - Unexpected error during setup: 'NoneType' object has no attribute 'terminate'
+2025-06-27 07:12:35,672 - INFO - Starting setup process at 2025-06-27T07:12:35.672322
+2025-06-27 07:12:35,672 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:12:35,672 - INFO - Checking and installing dependencies...
+2025-06-27 07:12:38,636 - INFO - All dependencies installed and verified
+2025-06-27 07:12:38,676 - INFO - Ollama is installed
+2025-06-27 07:12:38,677 - INFO - Checking if Ollama server is running...
+2025-06-27 07:12:40,737 - INFO - Ollama server is already running.
+2025-06-27 07:12:42,794 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 07:12:42,795 - INFO - Checking AI model...
+2025-06-27 07:12:42,859 - INFO - llama3.2:3b model available
+2025-06-27 07:12:47,041 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to make sure I'm working properly. Is there anything specific you'd like to talk about or ask for help with? I'm here to assist you!
+2025-06-27 07:12:47,043 - INFO - Created .env file with default settings
+2025-06-27 07:12:47,058 - INFO - Created directory: data
+2025-06-27 07:12:47,058 - INFO - Created directory: data/audio_temp
+2025-06-27 07:12:47,058 - INFO - Created directory: logs
+2025-06-27 07:12:47,058 - INFO - Created directory: static
+2025-06-27 07:12:47,059 - INFO - Starting helloIVY Career Selector...
+2025-06-27 07:25:32,827 - INFO - Setup interrupted by user
+2025-06-27 07:25:37,543 - INFO - Starting setup process at 2025-06-27T07:25:37.543363
+2025-06-27 07:25:37,543 - INFO - Python version 3.12.4 is compatible
+2025-06-27 07:25:37,543 - INFO - Checking and installing dependencies...
+2025-06-27 07:25:40,464 - INFO - All dependencies installed and verified
+2025-06-27 07:25:40,538 - INFO - Ollama is installed
+2025-06-27 07:25:40,539 - INFO - Checking if Ollama server is running...
+2025-06-27 07:25:42,605 - INFO - Ollama server is already running.
+2025-06-27 07:25:44,693 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 07:25:44,694 - INFO - Checking AI model...
+2025-06-27 07:25:44,741 - INFO - llama3.2:3b model available
+2025-06-27 07:25:48,921 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to make sure I'm working properly. Is there anything specific you'd like to talk about or ask? I'm here to help!
+2025-06-27 07:25:48,927 - INFO - Created directory: data
+2025-06-27 07:25:48,928 - INFO - Created directory: data/audio_temp
+2025-06-27 07:25:48,928 - INFO - Created directory: logs
+2025-06-27 07:25:48,928 - INFO - Created directory: static
+2025-06-27 07:25:48,928 - INFO - Starting helloIVY Career Selector...
+2025-06-27 07:41:08,175 - INFO - Setup interrupted by user
+2025-06-27 12:04:19,719 - INFO - Starting setup process at 2025-06-27T12:04:19.719883
+2025-06-27 12:04:19,720 - INFO - Python version 3.12.4 is compatible
+2025-06-27 12:04:19,720 - INFO - Checking and installing dependencies...
+2025-06-27 12:04:24,942 - INFO - All dependencies installed and verified
+2025-06-27 12:04:25,111 - INFO - Ollama is installed
+2025-06-27 12:04:25,112 - INFO - Checking if Ollama server is running...
+2025-06-27 12:04:27,164 - INFO - Ollama server is already running.
+2025-06-27 12:04:29,230 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 12:04:29,231 - INFO - Checking AI model...
+2025-06-27 12:04:29,340 - INFO - llama3.2:3b model available
+2025-06-27 12:04:42,503 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to make sure I'm working properly. Is there anything specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-06-27 12:04:42,526 - INFO - Created directory: data
+2025-06-27 12:04:42,526 - INFO - Created directory: data/audio_temp
+2025-06-27 12:04:42,526 - INFO - Created directory: logs
+2025-06-27 12:04:42,527 - INFO - Created directory: static
+2025-06-27 12:04:42,527 - INFO - Starting helloIVY Career Selector...
+2025-06-27 12:28:26,702 - INFO - Setup interrupted by user
+2025-06-27 12:28:43,818 - INFO - Starting setup process at 2025-06-27T12:28:43.818591
+2025-06-27 12:28:43,818 - INFO - Python version 3.12.4 is compatible
+2025-06-27 12:28:43,818 - INFO - Checking and installing dependencies...
+2025-06-27 12:28:47,325 - INFO - All dependencies installed and verified
+2025-06-27 12:28:47,418 - INFO - Ollama is installed
+2025-06-27 12:28:47,418 - INFO - Checking if Ollama server is running...
+2025-06-27 12:28:49,470 - INFO - Ollama server is already running.
+2025-06-27 12:28:51,506 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 12:28:51,508 - INFO - Checking AI model...
+2025-06-27 12:28:51,579 - INFO - llama3.2:3b model available
+2025-06-27 12:28:56,229 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing if I'm working properly. Is there something specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-06-27 12:28:56,239 - INFO - Created directory: data
+2025-06-27 12:28:56,239 - INFO - Created directory: data/audio_temp
+2025-06-27 12:28:56,241 - INFO - Created directory: logs
+2025-06-27 12:28:56,241 - INFO - Created directory: static
+2025-06-27 12:28:56,241 - INFO - Starting helloIVY Career Selector...
+2025-06-27 15:52:05,658 - INFO - Setup interrupted by user
+2025-06-27 15:52:10,149 - INFO - Starting setup process at 2025-06-27T15:52:10.149721
+2025-06-27 15:52:10,149 - INFO - Python version 3.12.4 is compatible
+2025-06-27 15:52:10,150 - INFO - Checking and installing dependencies...
+2025-06-27 15:52:14,162 - INFO - All dependencies installed and verified
+2025-06-27 15:52:14,280 - INFO - Ollama is installed
+2025-06-27 15:52:14,281 - INFO - Checking if Ollama server is running...
+2025-06-27 15:52:16,346 - INFO - Ollama server is already running.
+2025-06-27 15:52:18,393 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-27 15:52:18,393 - INFO - Checking AI model...
+2025-06-27 15:52:18,459 - INFO - llama3.2:3b model available
+2025-06-27 15:52:30,898 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to see if I'm working properly. Is there anything specific you'd like to test or discuss? I'm here to help!
+2025-06-27 15:52:30,915 - INFO - Created directory: data
+2025-06-27 15:52:30,915 - INFO - Created directory: data/audio_temp
+2025-06-27 15:52:30,916 - INFO - Created directory: logs
+2025-06-27 15:52:30,916 - INFO - Created directory: static
+2025-06-27 15:52:30,917 - INFO - Starting helloIVY Career Selector...
+2025-06-29 11:51:02,422 - INFO - Starting setup process at 2025-06-29T11:51:02.421859
+2025-06-29 11:51:02,424 - INFO - Python version 3.12.4 is compatible
+2025-06-29 11:51:02,424 - INFO - Checking and installing dependencies...
+2025-06-29 11:51:09,200 - INFO - All dependencies installed and verified
+2025-06-29 11:51:09,397 - INFO - Ollama is installed
+2025-06-29 11:51:09,397 - INFO - Checking if Ollama server is running...
+2025-06-29 11:51:11,466 - INFO - Ollama server is already running.
+2025-06-29 11:51:13,524 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-29 11:51:13,524 - INFO - Checking AI model...
+2025-06-29 11:51:13,694 - INFO - llama3.2:3b model available
+2025-06-29 11:51:25,801 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing if I'm working properly. Is there anything specific you'd like to chat about or ask? I'm here to help!
+2025-06-29 11:51:25,826 - INFO - Created directory: data
+2025-06-29 11:51:25,827 - INFO - Created directory: data/audio_temp
+2025-06-29 11:51:25,828 - INFO - Created directory: logs
+2025-06-29 11:51:25,828 - INFO - Created directory: static
+2025-06-29 11:51:25,828 - INFO - Starting helloIVY Career Selector...
+2025-06-29 11:51:44,064 - INFO - Setup interrupted by user
+2025-06-29 11:52:26,246 - INFO - Starting setup process at 2025-06-29T11:52:26.246908
+2025-06-29 11:52:26,246 - INFO - Python version 3.12.4 is compatible
+2025-06-29 11:52:26,247 - INFO - Checking and installing dependencies...
+2025-06-29 11:52:31,869 - INFO - All dependencies installed and verified
+2025-06-29 11:52:31,958 - INFO - Ollama is installed
+2025-06-29 11:52:31,958 - INFO - Checking if Ollama server is running...
+2025-06-29 11:52:34,022 - INFO - Ollama server is already running.
+2025-06-29 11:52:36,064 - INFO - Ollama server is confirmed running. Proceeding...
+2025-06-29 11:52:36,064 - INFO - Checking AI model...
+2025-06-29 11:52:36,125 - INFO - llama3.2:3b model available
+2025-06-29 11:52:41,712 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to make sure I'm working properly. Is there something specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-06-29 11:52:41,724 - INFO - Created directory: data
+2025-06-29 11:52:41,725 - INFO - Created directory: data/audio_temp
+2025-06-29 11:52:41,726 - INFO - Created directory: logs
+2025-06-29 11:52:41,726 - INFO - Created directory: static
+2025-06-29 11:52:41,727 - INFO - Starting helloIVY Career Selector...
+2025-06-30 14:49:45,449 - INFO - Setup interrupted by user
+2025-07-01 12:38:20,752 - INFO - Starting setup process at 2025-07-01T12:38:20.752689
+2025-07-01 12:38:20,752 - INFO - Python version 3.12.4 is compatible
+2025-07-01 12:38:20,752 - INFO - Checking and installing dependencies...
+2025-07-01 12:38:25,281 - INFO - All dependencies installed and verified
+2025-07-01 12:38:25,418 - INFO - Ollama is installed
+2025-07-01 12:38:25,418 - INFO - Checking if Ollama server is running...
+2025-07-01 12:38:27,504 - INFO - Ollama server is already running.
+2025-07-01 12:38:29,574 - INFO - Ollama server is confirmed running. Proceeding...
+2025-07-01 12:38:29,580 - INFO - Checking AI model...
+2025-07-01 12:38:29,704 - INFO - llama3.2:3b model available
+2025-07-01 12:38:40,595 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to see if I'm working properly. Is there something specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-07-01 12:38:40,637 - INFO - Created directory: data
+2025-07-01 12:38:40,643 - INFO - Created directory: data/audio_temp
+2025-07-01 12:38:40,643 - INFO - Created directory: logs
+2025-07-01 12:38:40,643 - INFO - Created directory: static
+2025-07-01 12:38:40,643 - INFO - Starting helloIVY Career Selector...
+2025-07-01 13:04:11,694 - INFO - Setup interrupted by user
+2025-07-01 13:04:17,450 - INFO - Starting setup process at 2025-07-01T13:04:17.450053
+2025-07-01 13:04:17,450 - INFO - Python version 3.12.4 is compatible
+2025-07-01 13:04:17,450 - INFO - Checking and installing dependencies...
+2025-07-01 13:04:20,278 - INFO - All dependencies installed and verified
+2025-07-01 13:04:20,324 - INFO - Ollama is installed
+2025-07-01 13:04:20,324 - INFO - Checking if Ollama server is running...
+2025-07-01 13:04:22,400 - INFO - Ollama server is already running.
+2025-07-01 13:04:24,451 - INFO - Ollama server is confirmed running. Proceeding...
+2025-07-01 13:04:24,452 - INFO - Checking AI model...
+2025-07-01 13:04:24,513 - INFO - llama3.2:3b model available
+2025-07-01 13:04:27,802 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing the chat! How can I assist you today?
+2025-07-01 13:04:27,807 - INFO - Created directory: data
+2025-07-01 13:04:27,808 - INFO - Created directory: data/audio_temp
+2025-07-01 13:04:27,808 - INFO - Created directory: logs
+2025-07-01 13:04:27,809 - INFO - Created directory: static
+2025-07-01 13:04:27,809 - INFO - Starting helloIVY Career Selector...
+2025-07-01 14:53:45,161 - INFO - Setup interrupted by user
+2025-07-01 14:53:50,453 - INFO - Starting setup process at 2025-07-01T14:53:50.453309
+2025-07-01 14:53:50,454 - INFO - Python version 3.12.4 is compatible
+2025-07-01 14:53:50,454 - INFO - Checking and installing dependencies...
+2025-07-01 14:53:53,861 - INFO - All dependencies installed and verified
+2025-07-01 14:53:53,928 - INFO - Ollama is installed
+2025-07-01 14:53:53,928 - INFO - Checking if Ollama server is running...
+2025-07-01 14:53:55,987 - INFO - Ollama server is already running.
+2025-07-01 14:53:58,022 - INFO - Ollama server is confirmed running. Proceeding...
+2025-07-01 14:53:58,022 - INFO - Checking AI model...
+2025-07-01 14:53:58,105 - INFO - llama3.2:3b model available
+2025-07-01 14:54:07,630 - INFO - Model llama3.2:3b is available and responded: It looks like you're trying to test if I'm working correctly. Is there something specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-07-01 14:54:07,649 - INFO - Created directory: data
+2025-07-01 14:54:07,650 - INFO - Created directory: data/audio_temp
+2025-07-01 14:54:07,650 - INFO - Created directory: logs
+2025-07-01 14:54:07,650 - INFO - Created directory: static
+2025-07-01 14:54:07,650 - INFO - Starting helloIVY Career Selector...
+2025-07-01 15:11:04,343 - INFO - Setup interrupted by user
+2025-07-01 15:11:08,621 - INFO - Starting setup process at 2025-07-01T15:11:08.621836
+2025-07-01 15:11:08,621 - INFO - Python version 3.12.4 is compatible
+2025-07-01 15:11:08,621 - INFO - Checking and installing dependencies...
+2025-07-01 15:11:12,800 - INFO - All dependencies installed and verified
+2025-07-01 15:11:12,868 - INFO - Ollama is installed
+2025-07-01 15:11:12,868 - INFO - Checking if Ollama server is running...
+2025-07-01 15:11:14,913 - INFO - Ollama server is already running.
+2025-07-01 15:11:16,960 - INFO - Ollama server is confirmed running. Proceeding...
+2025-07-01 15:11:16,960 - INFO - Checking AI model...
+2025-07-01 15:11:17,017 - INFO - llama3.2:3b model available
+2025-07-01 15:11:21,541 - INFO - Model llama3.2:3b is available and responded: It looks like you're testing to see if I'm working properly. Is there something specific you'd like to chat about or ask for help with? I'm here to assist you!
+2025-07-01 15:11:21,547 - INFO - Created directory: data
+2025-07-01 15:11:21,548 - INFO - Created directory: data/audio_temp
+2025-07-01 15:11:21,548 - INFO - Created directory: logs
+2025-07-01 15:11:21,548 - INFO - Created directory: static
+2025-07-01 15:11:21,548 - INFO - Starting helloIVY Career Selector...
+2025-07-01 15:52:29,571 - INFO - Setup interrupted by user
+2025-07-01 17:27:43,805 - INFO - Starting setup process at 2025-07-01T17:27:43.805105
+2025-07-01 17:27:43,806 - INFO - Python version 3.12.4 is compatible
+2025-07-01 17:27:43,807 - INFO - Checking and installing dependencies...
+2025-07-01 17:27:49,324 - ERROR - Dependency installation failed: Command '['C:\\Users\\Divyansh\\PycharmProjects\\CollegeSelector\\.venv\\Scripts\\python.exe', '-m', 'pip', 'install', '-r', 'requirements.txt']' returned non-zero exit status 1.
+2025-07-01 17:27:49,324 - INFO - Please install missing packages manually with: pip install flask flask-cors openai-whisper torch requests google-generativeai
+2025-07-01 17:27:49,324 - INFO - None
+2025-07-01 17:28:16,008 - INFO - Starting setup process at 2025-07-01T17:28:16.008919
+2025-07-01 17:28:16,008 - INFO - Python version 3.12.4 is compatible
+2025-07-01 17:28:16,008 - INFO - Checking and installing dependencies...
+2025-07-01 17:28:19,910 - INFO - All dependencies installed and verified
+2025-07-01 17:28:19,911 - INFO - Created directory: data
+2025-07-01 17:28:19,911 - INFO - Created directory: data/audio_temp
+2025-07-01 17:28:19,911 - INFO - Created directory: logs
+2025-07-01 17:28:19,912 - INFO - Created directory: static
+2025-07-01 17:28:19,912 - INFO - Starting helloIVY Career Selector...
+2025-07-01 17:45:40,103 - INFO - Setup interrupted by user
+2025-07-01 17:56:21,559 - INFO - Starting setup process at 2025-07-01T17:56:21.559434
+2025-07-01 17:56:21,559 - INFO - Python version 3.12.4 is compatible
+2025-07-01 17:56:21,559 - INFO - Checking and installing dependencies...
+2025-07-01 17:56:25,997 - INFO - All dependencies installed and verified
+2025-07-01 17:56:25,998 - INFO - Created directory: data
+2025-07-01 17:56:25,998 - INFO - Created directory: data/audio_temp
+2025-07-01 17:56:25,998 - INFO - Created directory: logs
+2025-07-01 17:56:25,998 - INFO - Created directory: static
+2025-07-01 17:56:25,998 - INFO - Starting helloIVY Career Selector...
+2025-07-01 18:03:17,999 - INFO - Setup interrupted by user
+2025-07-01 18:04:41,490 - INFO - Starting setup process at 2025-07-01T18:04:41.490704
+2025-07-01 18:04:41,490 - INFO - Python version 3.12.4 is compatible
+2025-07-01 18:04:41,491 - INFO - Checking and installing dependencies...
+2025-07-01 18:04:45,118 - INFO - All dependencies installed and verified
+2025-07-01 18:04:45,118 - INFO - Created directory: data
+2025-07-01 18:04:45,119 - INFO - Created directory: data/audio_temp
+2025-07-01 18:04:45,119 - INFO - Created directory: logs
+2025-07-01 18:04:45,120 - INFO - Created directory: static
+2025-07-01 18:04:45,120 - INFO - Starting helloIVY Career Selector...
+2025-07-01 18:13:12,476 - INFO - Setup interrupted by user
+2025-07-01 18:13:18,031 - INFO - Starting setup process at 2025-07-01T18:13:18.029995
+2025-07-01 18:13:18,031 - INFO - Python version 3.12.4 is compatible
+2025-07-01 18:13:18,031 - INFO - Checking and installing dependencies...
+2025-07-01 18:13:21,373 - INFO - All dependencies installed and verified
+2025-07-01 18:13:21,374 - INFO - Created directory: data
+2025-07-01 18:13:21,374 - INFO - Created directory: data/audio_temp
+2025-07-01 18:13:21,374 - INFO - Created directory: logs
+2025-07-01 18:13:21,374 - INFO - Created directory: static
+2025-07-01 18:13:21,374 - INFO - Starting helloIVY Career Selector...
+2025-07-01 18:45:12,846 - INFO - Setup interrupted by user
+2025-07-01 18:45:23,260 - INFO - Starting setup process at 2025-07-01T18:45:23.260543
+2025-07-01 18:45:23,260 - INFO - Python version 3.12.4 is compatible
+2025-07-01 18:45:23,260 - INFO - Checking and installing dependencies...
+2025-07-01 18:45:25,903 - INFO - All dependencies installed and verified
+2025-07-01 18:45:25,903 - INFO - Created directory: data
+2025-07-01 18:45:25,903 - INFO - Created directory: data/audio_temp
+2025-07-01 18:45:25,903 - INFO - Created directory: logs
+2025-07-01 18:45:25,904 - INFO - Created directory: static
+2025-07-01 18:45:25,904 - INFO - Starting helloIVY Career Selector...
+2025-07-01 18:48:25,051 - INFO - Setup interrupted by user
+2025-07-01 18:48:35,017 - INFO - Starting setup process at 2025-07-01T18:48:35.017136
+2025-07-01 18:48:35,017 - INFO - Python version 3.12.4 is compatible
+2025-07-01 18:48:35,017 - INFO - Checking and installing dependencies...
+2025-07-01 18:48:38,804 - INFO - All dependencies installed and verified
+2025-07-01 18:48:38,805 - INFO - Created directory: data
+2025-07-01 18:48:38,805 - INFO - Created directory: data/audio_temp
+2025-07-01 18:48:38,805 - INFO - Created directory: logs
+2025-07-01 18:48:38,806 - INFO - Created directory: static
+2025-07-01 18:48:38,806 - INFO - Starting helloIVY Career Selector...
+2025-07-02 10:30:05,375 - INFO - Setup interrupted by user
+2025-07-02 10:35:44,719 - INFO - Starting setup process at 2025-07-02T10:35:44.719082
+2025-07-02 10:35:44,719 - INFO - Python version 3.12.4 is compatible
+2025-07-02 10:35:44,719 - INFO - Checking and installing dependencies...
+2025-07-02 10:35:49,576 - INFO - All dependencies installed and verified
+2025-07-02 10:35:49,576 - INFO - Created directory: data
+2025-07-02 10:35:49,576 - INFO - Created directory: data/audio_temp
+2025-07-02 10:35:49,578 - INFO - Created directory: logs
+2025-07-02 10:35:49,578 - INFO - Created directory: static
+2025-07-02 10:35:49,578 - INFO - Starting helloIVY Career Selector...
+2025-07-02 10:50:29,908 - INFO - Setup interrupted by user
+2025-07-02 10:52:38,502 - INFO - Starting setup process at 2025-07-02T10:52:38.502933
+2025-07-02 10:52:38,502 - INFO - Python version 3.12.4 is compatible
+2025-07-02 10:52:38,502 - INFO - Checking and installing dependencies...
+2025-07-02 10:52:41,404 - INFO - All dependencies installed and verified
+2025-07-02 10:52:41,404 - INFO - Created directory: data
+2025-07-02 10:52:41,405 - INFO - Created directory: data/audio_temp
+2025-07-02 10:52:41,405 - INFO - Created directory: logs
+2025-07-02 10:52:41,405 - INFO - Created directory: static
+2025-07-02 10:52:41,406 - INFO - Starting helloIVY Career Selector...
+2025-07-02 10:56:23,429 - INFO - Setup interrupted by user
+2025-07-02 11:17:48,346 - INFO - Starting setup process at 2025-07-02T11:17:48.346939
+2025-07-02 11:17:48,348 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:17:48,348 - INFO - Checking and installing dependencies...
+2025-07-02 11:17:52,163 - INFO - All dependencies installed and verified
+2025-07-02 11:17:52,163 - INFO - Created directory: data
+2025-07-02 11:17:52,164 - INFO - Created directory: data/audio_temp
+2025-07-02 11:17:52,164 - INFO - Created directory: logs
+2025-07-02 11:17:52,164 - INFO - Created directory: static
+2025-07-02 11:17:52,164 - INFO - Starting helloIVY Career Selector...
+2025-07-02 11:18:02,190 - INFO - Setup interrupted by user
+2025-07-02 11:26:47,476 - INFO - Starting setup process at 2025-07-02T11:26:47.476718
+2025-07-02 11:26:47,476 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:26:47,477 - INFO - Checking and installing dependencies...
+2025-07-02 11:26:50,778 - INFO - All dependencies installed and verified
+2025-07-02 11:26:50,779 - INFO - Created directory: data
+2025-07-02 11:26:50,779 - INFO - Created directory: data/audio_temp
+2025-07-02 11:26:50,780 - INFO - Created directory: logs
+2025-07-02 11:26:50,780 - INFO - Created directory: static
+2025-07-02 11:26:50,780 - INFO - Starting helloIVY Career Selector...
+2025-07-02 11:28:55,934 - ERROR - Application failed to start: Command '['C:\\Users\\Divyansh\\PycharmProjects\\CollegeSelector\\.venv\\Scripts\\python.exe', 'app.py']' returned non-zero exit status 1.
+2025-07-02 11:43:53,705 - INFO - Starting setup process at 2025-07-02T11:43:53.705879
+2025-07-02 11:43:53,705 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:43:53,707 - INFO - Checking and installing dependencies...
+2025-07-02 11:43:57,483 - INFO - All dependencies installed and verified
+2025-07-02 11:43:57,484 - INFO - Created directory: data
+2025-07-02 11:43:57,484 - INFO - Created directory: data/audio_temp
+2025-07-02 11:43:57,484 - INFO - Created directory: logs
+2025-07-02 11:43:57,485 - INFO - Created directory: static
+2025-07-02 11:43:57,486 - INFO - Starting helloIVY Career Selector...
+2025-07-02 11:43:59,023 - INFO - Setup interrupted by user
+2025-07-02 11:44:47,511 - INFO - Starting setup process at 2025-07-02T11:44:47.511151
+2025-07-02 11:44:47,511 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:44:47,511 - INFO - Checking and installing dependencies...
+2025-07-02 11:44:50,893 - INFO - All dependencies installed and verified
+2025-07-02 11:44:50,894 - INFO - Created directory: data
+2025-07-02 11:44:50,894 - INFO - Created directory: data/audio_temp
+2025-07-02 11:44:50,894 - INFO - Created directory: logs
+2025-07-02 11:44:50,895 - INFO - Created directory: static
+2025-07-02 11:44:50,895 - INFO - Starting helloIVY Career Selector...
+2025-07-02 11:47:24,677 - INFO - Setup interrupted by user
+2025-07-02 11:47:29,288 - INFO - Starting setup process at 2025-07-02T11:47:29.288500
+2025-07-02 11:47:29,288 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:47:29,288 - INFO - Checking and installing dependencies...
+2025-07-02 11:47:32,709 - INFO - All dependencies installed and verified
+2025-07-02 11:47:32,710 - INFO - Created directory: data
+2025-07-02 11:47:32,710 - INFO - Created directory: data/audio_temp
+2025-07-02 11:47:32,710 - INFO - Created directory: logs
+2025-07-02 11:47:32,711 - INFO - Created directory: static
+2025-07-02 11:47:32,711 - INFO - Starting helloIVY Career Selector...
+2025-07-02 11:48:16,541 - INFO - Setup interrupted by user
+2025-07-02 11:48:30,309 - INFO - Starting setup process at 2025-07-02T11:48:30.309737
+2025-07-02 11:48:30,310 - INFO - Python version 3.12.4 is compatible
+2025-07-02 11:48:30,310 - INFO - Checking and installing dependencies...
+2025-07-02 11:48:33,870 - INFO - All dependencies installed and verified
+2025-07-02 11:48:33,871 - INFO - Created directory: data
+2025-07-02 11:48:33,871 - INFO - Created directory: data/audio_temp
+2025-07-02 11:48:33,872 - INFO - Created directory: logs
+2025-07-02 11:48:33,872 - INFO - Created directory: static
+2025-07-02 11:48:33,872 - INFO - Starting helloIVY Career Selector...
+2025-07-02 12:56:06,068 - INFO - Setup interrupted by user
+2025-07-02 12:56:12,017 - INFO - Starting setup process at 2025-07-02T12:56:12.017245
+2025-07-02 12:56:12,017 - INFO - Python version 3.12.4 is compatible
+2025-07-02 12:56:12,017 - INFO - Checking and installing dependencies...
+2025-07-02 12:56:14,963 - INFO - All dependencies installed and verified
+2025-07-02 12:56:14,964 - INFO - Created directory: data
+2025-07-02 12:56:14,964 - INFO - Created directory: data/audio_temp
+2025-07-02 12:56:14,965 - INFO - Created directory: logs
+2025-07-02 12:56:14,965 - INFO - Created directory: static
+2025-07-02 12:56:14,965 - INFO - Starting helloIVY Career Selector...
+2025-07-02 12:56:17,142 - INFO - Setup interrupted by user
+2025-07-02 12:56:59,651 - INFO - Starting setup process at 2025-07-02T12:56:59.651052
+2025-07-02 12:56:59,652 - INFO - Python version 3.12.4 is compatible
+2025-07-02 12:56:59,652 - INFO - Checking and installing dependencies...
+2025-07-02 12:57:02,083 - INFO - All dependencies installed and verified
+2025-07-02 12:57:02,083 - INFO - Created directory: data
+2025-07-02 12:57:02,084 - INFO - Created directory: data/audio_temp
+2025-07-02 12:57:02,084 - INFO - Created directory: logs
+2025-07-02 12:57:02,084 - INFO - Created directory: static
+2025-07-02 12:57:02,084 - INFO - Starting helloIVY Career Selector...
+2025-07-02 13:01:03,494 - INFO - Setup interrupted by user
+2025-07-02 13:02:19,821 - INFO - Starting setup process at 2025-07-02T13:02:19.821261
+2025-07-02 13:02:19,821 - INFO - Python version 3.12.4 is compatible
+2025-07-02 13:02:19,821 - INFO - Checking and installing dependencies...
+2025-07-02 13:02:22,896 - INFO - All dependencies installed and verified
+2025-07-02 13:02:22,896 - INFO - Created directory: data
+2025-07-02 13:02:22,897 - INFO - Created directory: data/audio_temp
+2025-07-02 13:02:22,897 - INFO - Created directory: logs
+2025-07-02 13:02:22,897 - INFO - Created directory: static
+2025-07-02 13:02:22,900 - INFO - Starting helloIVY Career Selector...
+2025-07-02 13:07:16,650 - INFO - Setup interrupted by user
+2025-07-02 13:11:56,611 - INFO - Starting setup process at 2025-07-02T13:11:56.611301
+2025-07-02 13:11:56,613 - INFO - Python version 3.12.4 is compatible
+2025-07-02 13:11:56,613 - INFO - Checking and installing dependencies...
+2025-07-02 13:12:00,660 - INFO - All dependencies installed and verified
+2025-07-02 13:12:00,660 - INFO - Created directory: data
+2025-07-02 13:12:00,661 - INFO - Created directory: data/audio_temp
+2025-07-02 13:12:00,661 - INFO - Created directory: logs
+2025-07-02 13:12:00,661 - INFO - Created directory: static
+2025-07-02 13:12:00,661 - INFO - Starting helloIVY Career Selector...
+2025-07-02 13:12:03,284 - ERROR - Application failed to start: Command '['C:\\Users\\Divyansh\\PycharmProjects\\CollegeSelector\\.venv\\Scripts\\python.exe', 'app.py']' returned non-zero exit status 1.
+2025-07-02 13:12:24,546 - INFO - Starting setup process at 2025-07-02T13:12:24.546131
+2025-07-02 13:12:24,546 - INFO - Python version 3.12.4 is compatible
+2025-07-02 13:12:24,546 - INFO - Checking and installing dependencies...
+2025-07-02 13:12:27,306 - INFO - All dependencies installed and verified
+2025-07-02 13:12:27,307 - INFO - Created directory: data
+2025-07-02 13:12:27,307 - INFO - Created directory: data/audio_temp
+2025-07-02 13:12:27,307 - INFO - Created directory: logs
+2025-07-02 13:12:27,307 - INFO - Created directory: static
+2025-07-02 13:12:27,308 - INFO - Starting helloIVY Career Selector...
+2025-07-02 13:36:04,932 - INFO - Setup interrupted by user
+2025-07-02 13:37:22,168 - INFO - Starting setup process at 2025-07-02T13:37:22.168861
+2025-07-02 13:37:22,173 - INFO - Python version 3.12.4 is compatible
+2025-07-02 13:37:22,177 - INFO - Checking and installing dependencies...
+2025-07-02 13:37:26,704 - INFO - All dependencies installed and verified
+2025-07-02 13:37:26,705 - INFO - Created directory: data
+2025-07-02 13:37:26,705 - INFO - Created directory: data/audio_temp
+2025-07-02 13:37:26,706 - INFO - Created directory: logs
+2025-07-02 13:37:26,708 - INFO - Created directory: static
+2025-07-02 13:37:26,708 - INFO - Starting helloIVY Career Selector...
+2025-07-02 13:57:56,359 - INFO - Setup interrupted by user
+2025-07-02 13:58:29,796 - INFO - Starting setup process at 2025-07-02T13:58:29.796329
+2025-07-02 13:58:29,797 - INFO - Python version 3.12.4 is compatible
+2025-07-02 13:58:29,797 - INFO - Checking and installing dependencies...
+2025-07-02 13:58:33,372 - INFO - All dependencies installed and verified
+2025-07-02 13:58:33,372 - INFO - Created directory: data
+2025-07-02 13:58:33,373 - INFO - Created directory: data/audio_temp
+2025-07-02 13:58:33,374 - INFO - Created directory: logs
+2025-07-02 13:58:33,374 - INFO - Created directory: static
+2025-07-02 13:58:33,374 - INFO - Starting helloIVY Career Selector...
+2025-07-02 14:10:55,133 - INFO - Setup interrupted by user
+2025-07-02 14:11:23,446 - INFO - Starting setup process at 2025-07-02T14:11:23.445789
+2025-07-02 14:11:23,446 - INFO - Python version 3.12.4 is compatible
+2025-07-02 14:11:23,446 - INFO - Checking and installing dependencies...
+2025-07-02 14:11:27,083 - INFO - All dependencies installed and verified
+2025-07-02 14:11:27,083 - INFO - Created directory: data
+2025-07-02 14:11:27,084 - INFO - Created directory: data/audio_temp
+2025-07-02 14:11:27,084 - INFO - Created directory: logs
+2025-07-02 14:11:27,084 - INFO - Created directory: static
+2025-07-02 14:11:27,084 - INFO - Starting helloIVY Career Selector...
+2025-07-02 14:39:52,855 - INFO - Setup interrupted by user
+2025-07-02 14:40:06,740 - INFO - Starting setup process at 2025-07-02T14:40:06.739145
+2025-07-02 14:40:06,740 - INFO - Python version 3.12.4 is compatible
+2025-07-02 14:40:06,740 - INFO - Checking and installing dependencies...
+2025-07-02 14:40:10,506 - INFO - All dependencies installed and verified
+2025-07-02 14:40:10,506 - INFO - Created directory: data
+2025-07-02 14:40:10,507 - INFO - Created directory: data/audio_temp
+2025-07-02 14:40:10,507 - INFO - Created directory: logs
+2025-07-02 14:40:10,508 - INFO - Created directory: static
+2025-07-02 14:40:10,508 - INFO - Starting helloIVY Career Selector...
+2025-07-02 14:47:57,726 - INFO - Setup interrupted by user
+2025-07-02 14:48:14,904 - INFO - Starting setup process at 2025-07-02T14:48:14.904518
+2025-07-02 14:48:14,906 - INFO - Python version 3.12.4 is compatible
+2025-07-02 14:48:14,906 - INFO - Checking and installing dependencies...
+2025-07-02 14:48:20,910 - INFO - All dependencies installed and verified
+2025-07-02 14:48:20,911 - INFO - Created directory: data
+2025-07-02 14:48:20,911 - INFO - Created directory: data/audio_temp
+2025-07-02 14:48:20,912 - INFO - Created directory: logs
+2025-07-02 14:48:20,912 - INFO - Created directory: static
+2025-07-02 14:48:20,913 - INFO - Starting helloIVY Career Selector...
+2025-07-02 17:00:53,444 - INFO - Starting setup process at 2025-07-02T17:00:53.444253
+2025-07-02 17:00:53,445 - INFO - Python version 3.12.4 is compatible
+2025-07-02 17:00:53,445 - INFO - Checking and installing dependencies...
+2025-07-02 17:00:57,247 - INFO - All dependencies installed and verified
+2025-07-02 17:00:57,247 - INFO - Created directory: data
+2025-07-02 17:00:57,248 - INFO - Created directory: data/audio_temp
+2025-07-02 17:00:57,248 - INFO - Created directory: logs
+2025-07-02 17:00:57,248 - INFO - Created directory: static
+2025-07-02 17:00:57,248 - INFO - Starting helloIVY Career Selector...
